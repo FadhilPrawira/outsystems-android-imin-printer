@@ -1,8 +1,8 @@
 {
-  "name": "id.my.fadhilprawira.outsystems.iminprinter",
+  "name": "outsystems-android-imin-printer",
   "displayName": "Outsystems Imin Printer",
   "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "Android Imin printer plugin for OutSystems with Cordova support",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +12,8 @@
     "cordova",
     "cordova-android"
   ],
-  "author": "Apache Cordova Team",
-  "license": "Apache-2.0",
+  "author": "Fadhil Prawira",
+  "license": "MIT",
   "devDependencies": {
     "cordova-android": "^15.1.0"
   },
